@@ -73,7 +73,7 @@ const Hero = () => {
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 p-1 animate-scale-in">
                 <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center">
                   <img
-                    src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+                    src="https://i.postimg.cc/cJcYDGmN/passport.jpg"
                     alt="Joswin James"
                     className="w-72 h-72 rounded-full object-cover border-4 border-gray-700"
                   />
